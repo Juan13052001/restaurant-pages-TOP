@@ -1,0 +1,1 @@
+(()=>{"use strict";document.querySelector("#content").appendChild(function(){const e=document.createElement("div");return e.innerHTML="<h1>Delicious Ice Cream, Visit us!</h1>",e}())})();
